@@ -3,7 +3,7 @@ import random
 import string
 from typing import List, Dict, Any, Union
 
-#fjafjajfhsjfh
+#asiogfajnsmgopasgojm
 
 # --- Логика генерации рынка ---
 def generate_new_coin_name() -> str:
